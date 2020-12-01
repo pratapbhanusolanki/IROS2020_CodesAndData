@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the complete code and data files to repeat the simulation results and generate figures that are presented in our paper titled "Active Alignment Control-based LED Communication for Underwater Robots" which is presented at, and will be published in the proceedings of, 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), the submitted manuscript is included here for reference. The dependency npy-matlab-master, that is used to convert numpy files to matlab variables, is included with the original licence. 
+This repository contains the complete code and data files to repeat the simulation results and generate figures that are presented in our paper titled **_"Active Alignment Control-based LED Communication for Underwater Robots"_** which is presented at, and will be published in the proceedings of, [2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2020.org/), the submitted manuscript is included here for reference. The dependency [npy-matlab](https://github.com/kwikteam/npy-matlab), that is used to convert numpy files to matlab variables, is included with the original licence. 
 
 ## Instructions
 
